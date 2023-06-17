@@ -48,3 +48,15 @@ Make sure you have administrative privileges to install Docker and modify system
 The script may need to download Docker and Docker Compose if they are not already installed.
 
 Customization: You can modify the script to suit your specific needs, such as adjusting the installation steps for Docker and Docker Compose.
+
+
+# Output
+
+Creating WordPress site: example.com
+Creating network "wordpress_default" with the default driver
+Creating wordpress_db_1 ... done
+Creating wordpress_web_1 ... done
+Creating wordpress_nginx_1 ... done
+Creating wordpress_php_1 ... done
+Open example.com in a browser to access your WordPress site.
+
