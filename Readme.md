@@ -52,11 +52,5 @@ Customization: You can modify the script to suit your specific needs, such as ad
 
 # Output
 
-Creating WordPress site: example.com
-Creating network "wordpress_default" with the default driver
-Creating wordpress_db_1 ... done
-Creating wordpress_web_1 ... done
-Creating wordpress_nginx_1 ... done
-Creating wordpress_php_1 ... done
-Open example.com in a browser to access your WordPress site.
+![Screenshot 2023-06-17 173409](https://github.com/vikeshkumar8210/rtcamp/assets/73430534/1c3d37fd-9d6a-46bb-bfbc-d81a73291528)
 
